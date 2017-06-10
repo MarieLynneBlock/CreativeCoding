@@ -1,6 +1,6 @@
 # CreativeCoding
 
 Generativ Art:
-  Code Poetry & Mathematical Drawings
+    Code Poetry & Mathematical Drawings
 
-playing around with processing, sound and visualisation.
+Playing around with processing, sound and visualisation.
